@@ -93,11 +93,14 @@ Essas alternativas mantêm o conceito de um computador portátil reaproveitado, 
 
 ## 📚 Documentação
 
-- [`docs/projeto.md`](docs/projeto.md) — descrição do projeto, objetivos, materiais e metodologia;
-- [`docs/montagem.md`](docs/montagem.md) — roteiro da montagem física;
-- [`docs/linux-termux.md`](docs/linux-termux.md) — configuração do ambiente Linux via Termux;
-- [`docs/Projeto_Cyberdeck.pdf`](docs/Projeto_Cyberdeck.pdf) — proposta original do projeto.
+## 📚 Documentação
 
+- [docs/projeto.md](docs/projeto.md) — descrição do projeto, objetivos, materiais e metodologia;
+- [docs/montagem.md](docs/montagem.md) — roteiro da montagem física;
+- [docs/linux-termux.md](docs/linux-termux.md) — configuração do ambiente Linux via Termux;
+- [docs/phantom-process.md](docs/phantom-process.md) — configuração e solução para o Phantom Process Killer no Android 12+;
+- [docs/Projeto_Cyberdeck.pdf](docs/Projeto_Cyberdeck.pdf) — proposta original do projeto.
+  
 ## 🌱 Resultados esperados
 
 Espera-se obter um dispositivo portátil funcional para tarefas básicas de computação e, com o ambiente Linux via Termux, ampliar as possibilidades de uso do smartphone como computador.
