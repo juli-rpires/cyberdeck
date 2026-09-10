@@ -93,8 +93,6 @@ Essas alternativas mantêm o conceito de um computador portátil reaproveitado, 
 
 ## 📚 Documentação
 
-## 📚 Documentação
-
 - [docs/projeto.md](docs/projeto.md) — descrição do projeto, objetivos, materiais e metodologia;
 - [docs/montagem.md](docs/montagem.md) — roteiro da montagem física;
 - [docs/linux-termux.md](docs/linux-termux.md) — configuração do ambiente Linux via Termux;
