@@ -17,10 +17,10 @@ O Cyberdeck busca transformar esses materiais em um dispositivo portátil funcio
 | Componente | Função | Origem |
 |---|---|---|
 | Motorola Moto G54 | Processamento, tela e sistema operacional | Sucata/reaproveitado |
-| Mini teclado Bluetooth com touchpad | Entrada de texto e navegação | A definir |
-| Caixa/maleta | Estrutura/chassi | Sucata/reaproveitado |
-| Suporte para celular | Fixação do smartphone | A definir |
-| Cabos e conectores | Alimentação e conexões auxiliares | A definir |
+| Mini teclado Bluetooth com touchpad | Entrada de texto e navegação | Mini Teclado Wireless Touchpad Mini Keyboard QWERTY Multicolor |
+| Caixa/maleta | Estrutura/chassi | Caixa de Fita VHS Antiga |
+| Suporte para celular | Fixação do smartphone | Suporte Magnético Imã Neodimio Celular Universal Metal 360° |
+| Cabos e conectores | Alimentação e conexões auxiliares | Power Bank 20000mAh  |
 
 ## Resultados esperados
 
