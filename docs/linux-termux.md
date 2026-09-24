@@ -87,10 +87,15 @@ cd
 ./start-linux.sh
 ```
 
+Sempre que quiser abrir a interface cole: 
+
+```bash
+pkg upgrade
+cd ~/linux-android 
+./start-linux.sh
+```
+
+
 ### 9. Interface gráfica
 
 Abrir o Termux:X11 para acessar o ambiente desktop Linux.
-
-## ⚠️ Registro de alterações
-
-Os comandos acima reproduzem o procedimento descrito na proposta original. Este arquivo deverá ser atualizado conforme os testes reais do Cyberdeck forem realizados.
