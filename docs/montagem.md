@@ -50,12 +50,7 @@ Avaliar:
 - autonomia da bateria;
 - conforto de utilização.
 
-### 7. Ajustes e documentação
-
-Registrar as alterações e fotografar cada etapa importante da montagem.
-
 ## 📸 Registros
 
-(./docs/imagens)
+[📁 Abrir pasta de imagens](./imagens/)
 
-> Esta documentação será atualizada conforme a montagem física avançar.
