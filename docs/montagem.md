@@ -56,6 +56,6 @@ Registrar as alterações e fotografar cada etapa importante da montagem.
 
 ## 📸 Registros
 
-Adicionar as fotos em [`../imagens/`](../imagens/).
+docs/imagens
 
 > Esta documentação será atualizada conforme a montagem física avançar.
