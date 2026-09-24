@@ -71,7 +71,7 @@ A documentação detalhada da configuração está em [`docs/linux-termux.md`](d
 
 As fotos e registros da montagem serão adicionados nesta pasta:
 
-[`imagens/`](/imagens)
+[`imagens/`](./imagens/)
 
 ### Protótipo
 
